@@ -1,0 +1,28 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "another-new-course"
+  },
+  "course_image": {
+    "content": "",
+    "website": "another-new-course"
+  },
+  "course_title": "Change this",
+  "course_description": "",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.mbrc2",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "another-new-course"
+  },
+  "learning_resource_types": [],
+  "site_uid": "b8c0a4b4-d5d2-4fd0-a142-96d5a0d0a2d2"
+}
